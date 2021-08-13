@@ -21,9 +21,9 @@ var obstaclesGroup;
 var obstacle1X;
 
 function preload() {
-  playButtonImage = loadImage("images/play_button.png");
-  homepageImage = loadImage("images/homepage.png");
-  obstacleImage = loadImage("images/obstacle.png");
+  playButtonImage = loadImage("play_button.png");
+  homepageImage = loadImage("homepage.png");
+  obstacleImage = loadImage("obstacle.png");
 }
 
 function setup() {
