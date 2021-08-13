@@ -1,4 +1,6 @@
 # p5.play-boilerplate
-Boiler plate for p5.play
+A copy of Geometry Dash!
 
-Inspiration: geometrydash.io
+All credits go to the original creator of Geometry Dash, RobTop Games
+
+geometrydash.io
